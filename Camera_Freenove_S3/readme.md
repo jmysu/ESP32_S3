@@ -3,7 +3,7 @@
 
 For PlatformIO: <br>
   sivar2311 wrote a board definition json (see reference) <br>
-  Copy the file to the folder “c:\users\username\.platformio\platforms\espressif32\boards” <br>
+  Copy the file to the folder “.platformio\platforms\espressif32\boards” <br>
 
   In the platformio.ini use: <br>
   board = freenove_esp32_s3_wroom <br>
